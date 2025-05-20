@@ -22,9 +22,6 @@ A responsive, interactive **GTA VI-themed** web application built with **React**
 - 🔤 **Authentic Typography**  
   Custom GTA VI font integration to replicate the original look and feel.
 
-- 📱 **Responsive Layout**  
-  Fully responsive design optimized for desktop, tablet, and mobile devices.
-
 - 🌀 **Smooth Animations**  
   Seamless transitions and effects powered by GSAP for a professional user experience.
 
@@ -55,3 +52,5 @@ npm install
 
 # Start the development server
 npm start
+```
+## Deployed Link : [ gtareact](https://gtavireact-1cfkrgw8u-hrithik-vermas-projects.vercel.app/)
