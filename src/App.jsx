@@ -73,7 +73,7 @@ function App() {
             </mask>
           </defs>
           <image
-            href="./bg.png"
+            href="./images/bg.png"
             width="100%"
             height="100%"
             preserveAspectRatio="xMidYMid slice"
@@ -96,21 +96,21 @@ function App() {
                 </div>
               </div>
               <div className="imagesdiv relative overflow-hidden w-full h-screen">
-                <img src="./sky.png" alt="" className="absolute sky scale-[1.2] top-0 left-0 w-full h-full object-cover" />
-                <img src="./bg.png" alt="" className="absolute bg scale-[1.1] top-0 left-0 w-full h-full object-cover" />
+                <img src="./images/sky.png" alt="" className="absolute sky scale-[1.2] top-0 left-0 w-full h-full object-cover" />
+                <img src="./images/bg.png" alt="" className="absolute bg scale-[1.1] top-0 left-0 w-full h-full object-cover" />
                 <div className="text text-white flex flex-col gap-3 absolute top-5 left-1/2 -translate-x-1/2">
                   <h1 className='text-[7rem] leading-none -ml-30'>grand</h1>
                   <h1 className='text-[7rem] leading-none ml-20'>theft</h1>
                   <h1 className='text-[7rem] leading-none -ml-30'>auto</h1>
                 </div>
-                <img src="./girlbg.png" className="absolute character top-[10%] left-1/2 -translate-x-1/2 scale-[0.90]" alt="" />
+                <img src="./images/girlbg.png" className="absolute character top-[10%] left-1/2 -translate-x-1/2 scale-[0.90]" alt="" />
               </div>
               <div className="btmbar text-white absolute bottom-0 left-0 w-full py-15 px-10 bg-gradient-to-t from-black to-transparent">
                 <div className="flex gap-4 items-center">
                   <i className="text-4xl ri-arrow-down-line"></i>
                   <h3 className="text-xl font-[Helvetica_Now_Display]">Scroll Down</h3>
                 </div>
-                <img className='absolute h-[55px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2' src="./ps5.png" alt="" />
+                <img className='absolute h-[55px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2' src="./images/ps5.png" alt="" />
               </div>
             </div>
             <div className="w-full h-screen flex items-center justify-center bg-black">
@@ -118,7 +118,7 @@ function App() {
                 <div className="limg relative w-1/2 h-full">
                   <img
                     className="absolute scale-[0.8] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-                    src="./imag.png"
+                    src="./images/imag.png"
                     alt=""
                   />
                 </div>
